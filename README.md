@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/saimahajan/Leetcode/tree/master/0010-regular-expression-matching) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/saimahajan/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
