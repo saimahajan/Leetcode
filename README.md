@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saimahajan/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saimahajan/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saimahajan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/saimahajan/Leetcode/tree/master/0015-3sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saimahajan/Leetcode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/saimahajan/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
