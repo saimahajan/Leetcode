@@ -13,6 +13,7 @@
 | [0012-integer-to-roman](https://github.com/saimahajan/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saimahajan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saimahajan/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/saimahajan/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## String Matching
 |  |
 | ------- |
@@ -47,8 +48,13 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/saimahajan/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saimahajan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/saimahajan/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saimahajan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/saimahajan/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
