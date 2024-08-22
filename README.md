@@ -92,4 +92,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saimahajan/Leetcode/tree/master/0015-3sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/saimahajan/Leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
