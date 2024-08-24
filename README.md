@@ -43,6 +43,7 @@
 | [0015-3sum](https://github.com/saimahajan/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saimahajan/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saimahajan/Leetcode/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/saimahajan/Leetcode/tree/master/0217-contains-duplicate) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saimahajan/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
@@ -58,6 +59,7 @@
 | [0012-integer-to-roman](https://github.com/saimahajan/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saimahajan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saimahajan/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0217-contains-duplicate](https://github.com/saimahajan/Leetcode/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saimahajan/Leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/saimahajan/Leetcode/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
