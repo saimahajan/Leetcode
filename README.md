@@ -45,6 +45,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saimahajan/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saimahajan/Leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/saimahajan/Leetcode/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/saimahajan/Leetcode/tree/master/0724-find-pivot-index) |
 | [2058-concatenation-of-array](https://github.com/saimahajan/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/saimahajan/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/saimahajan/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
@@ -118,5 +119,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/saimahajan/Leetcode/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/saimahajan/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
