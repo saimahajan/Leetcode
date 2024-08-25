@@ -44,6 +44,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saimahajan/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saimahajan/Leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/saimahajan/Leetcode/tree/master/0217-contains-duplicate) |
+| [2058-concatenation-of-array](https://github.com/saimahajan/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/saimahajan/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saimahajan/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
@@ -107,4 +108,8 @@
 | ------- |
 | [0476-number-complement](https://github.com/saimahajan/Leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/saimahajan/Leetcode/tree/master/1054-complement-of-base-10-integer) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/saimahajan/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
