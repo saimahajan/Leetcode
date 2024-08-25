@@ -49,11 +49,13 @@
 | [2058-concatenation-of-array](https://github.com/saimahajan/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/saimahajan/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/saimahajan/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saimahajan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saimahajan/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saimahajan/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saimahajan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,4 +123,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/saimahajan/Leetcode/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/saimahajan/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saimahajan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
