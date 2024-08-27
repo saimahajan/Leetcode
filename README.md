@@ -51,6 +51,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/saimahajan/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/saimahajan/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saimahajan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/saimahajan/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saimahajan/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
