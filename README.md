@@ -52,6 +52,7 @@
 | [2181-smallest-index-with-equal-value](https://github.com/saimahajan/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saimahajan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saimahajan/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/saimahajan/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/saimahajan/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/saimahajan/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
@@ -72,6 +73,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saimahajan/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saimahajan/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0217-contains-duplicate](https://github.com/saimahajan/Leetcode/tree/master/0217-contains-duplicate) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/saimahajan/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | ------- |
 | [0476-number-complement](https://github.com/saimahajan/Leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/saimahajan/Leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/saimahajan/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/saimahajan/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Simulation
 |  |
