@@ -141,4 +141,8 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saimahajan/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/saimahajan/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
